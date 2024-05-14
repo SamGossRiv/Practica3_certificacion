@@ -1,0 +1,13 @@
+C:\Users\SAMUEL\Desktop\Practica2\PatientCodeGenerator\PatientCodeGenerator\bin\Debug\net8.0\PatientCodeGenerator.deps.json
+C:\Users\SAMUEL\Desktop\Practica2\PatientCodeGenerator\PatientCodeGenerator\bin\Debug\net8.0\PatientCodeGenerator.dll
+C:\Users\SAMUEL\Desktop\Practica2\PatientCodeGenerator\PatientCodeGenerator\bin\Debug\net8.0\PatientCodeGenerator.pdb
+C:\Users\SAMUEL\Desktop\Practica2\PatientCodeGenerator\PatientCodeGenerator\obj\Debug\net8.0\PatientCodeGenerator.csproj.AssemblyReference.cache
+C:\Users\SAMUEL\Desktop\Practica2\PatientCodeGenerator\PatientCodeGenerator\obj\Debug\net8.0\PatientCodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMUEL\Desktop\Practica2\PatientCodeGenerator\PatientCodeGenerator\obj\Debug\net8.0\PatientCodeGenerator.AssemblyInfoInputs.cache
+C:\Users\SAMUEL\Desktop\Practica2\PatientCodeGenerator\PatientCodeGenerator\obj\Debug\net8.0\PatientCodeGenerator.AssemblyInfo.cs
+C:\Users\SAMUEL\Desktop\Practica2\PatientCodeGenerator\PatientCodeGenerator\obj\Debug\net8.0\PatientCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL\Desktop\Practica2\PatientCodeGenerator\PatientCodeGenerator\obj\Debug\net8.0\PatientCodeGenerator.sourcelink.json
+C:\Users\SAMUEL\Desktop\Practica2\PatientCodeGenerator\PatientCodeGenerator\obj\Debug\net8.0\PatientCodeGenerator.dll
+C:\Users\SAMUEL\Desktop\Practica2\PatientCodeGenerator\PatientCodeGenerator\obj\Debug\net8.0\refint\PatientCodeGenerator.dll
+C:\Users\SAMUEL\Desktop\Practica2\PatientCodeGenerator\PatientCodeGenerator\obj\Debug\net8.0\PatientCodeGenerator.pdb
+C:\Users\SAMUEL\Desktop\Practica2\PatientCodeGenerator\PatientCodeGenerator\obj\Debug\net8.0\ref\PatientCodeGenerator.dll

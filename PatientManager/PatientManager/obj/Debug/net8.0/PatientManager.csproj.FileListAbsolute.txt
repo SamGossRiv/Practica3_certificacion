@@ -1,0 +1,13 @@
+C:\Users\SAMUEL\Desktop\Practica2\PatientManager\PatientManager\bin\Debug\net8.0\PatientManager.deps.json
+C:\Users\SAMUEL\Desktop\Practica2\PatientManager\PatientManager\bin\Debug\net8.0\PatientManager.dll
+C:\Users\SAMUEL\Desktop\Practica2\PatientManager\PatientManager\bin\Debug\net8.0\PatientManager.pdb
+C:\Users\SAMUEL\Desktop\Practica2\PatientManager\PatientManager\obj\Debug\net8.0\PatientManager.csproj.AssemblyReference.cache
+C:\Users\SAMUEL\Desktop\Practica2\PatientManager\PatientManager\obj\Debug\net8.0\PatientManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMUEL\Desktop\Practica2\PatientManager\PatientManager\obj\Debug\net8.0\PatientManager.AssemblyInfoInputs.cache
+C:\Users\SAMUEL\Desktop\Practica2\PatientManager\PatientManager\obj\Debug\net8.0\PatientManager.AssemblyInfo.cs
+C:\Users\SAMUEL\Desktop\Practica2\PatientManager\PatientManager\obj\Debug\net8.0\PatientManager.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL\Desktop\Practica2\PatientManager\PatientManager\obj\Debug\net8.0\PatientManager.sourcelink.json
+C:\Users\SAMUEL\Desktop\Practica2\PatientManager\PatientManager\obj\Debug\net8.0\PatientManager.dll
+C:\Users\SAMUEL\Desktop\Practica2\PatientManager\PatientManager\obj\Debug\net8.0\refint\PatientManager.dll
+C:\Users\SAMUEL\Desktop\Practica2\PatientManager\PatientManager\obj\Debug\net8.0\PatientManager.pdb
+C:\Users\SAMUEL\Desktop\Practica2\PatientManager\PatientManager\obj\Debug\net8.0\ref\PatientManager.dll
